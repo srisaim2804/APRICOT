@@ -1,1 +1,1 @@
-# APRICOT
+# init-to-win-it-RSAI-project
